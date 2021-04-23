@@ -4,16 +4,19 @@ Código de los  temas que se cubren en el canal de YouTube de [AndResNet](https:
 
 ## Tabla de contenidos
 
-* 1 - Regresión lineal simple con NumPy.
-  * [Código](regresión_lineal_simple_numpy_01.py)
+### 1 - Regresión lineal simple con NumPy.
+  * [Código](01_regresión_lineal_simple_numpy/regresión_lineal_simple_numpy_01.py)
   * [Video](https://youtu.be/8kQY9d5v3TI)
 
+### 2 - Regresión lineal múltiple con NumPy.
+  * [Código](02_regresión_lineal_múltiple_numpy)
+  * [Video](https://youtu.be/SwujmHumjAI)
 
 
 ### TODO
 
 - [x] Regresión lineal simple con NumPy.
-- [ ] Regresión lineal multiple con NumPy.
+- [x] Regresión lineal multiple con NumPy.
 - [ ] Regresión lineal simple con PyTorch.
 - [ ] Regresión logística con NumPy.
 - [ ] Regresión logística con PyTorch.
